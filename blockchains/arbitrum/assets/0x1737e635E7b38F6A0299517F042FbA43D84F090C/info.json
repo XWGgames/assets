@@ -1,0 +1,9 @@
+{
+    "name": "XWGC",
+    "type": "ARBITRUM",
+    "symbol": "XWGC",
+    "decimals": 18,
+    "explorer": "https://arbiscan.io/token/0x1737e635E7b38F6A0299517F042FbA43D84F090C",
+    "status": "active",
+    "id": "0x1737e635E7b38F6A0299517F042FbA43D84F090C",
+}
